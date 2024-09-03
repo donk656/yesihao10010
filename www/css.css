@@ -1,0 +1,14 @@
+div{
+    text-align: center;
+}
+p{
+    font-size: 50px;
+    
+}
+.rectangle{
+    margin: auto;
+    width: 800px;
+    height: 450px;
+    border-radius: 20px;
+    background-color: pink;
+}
